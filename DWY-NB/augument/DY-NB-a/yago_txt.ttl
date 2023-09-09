@@ -1,0 +1,21 @@
+<http://yago-knowledge.org/resource/Gideon_Omokirio> <http://yago-knowledge.org/resource/isPreferredMeaningOf> "Gideon Omokirio" .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label> "Latisana" .
+<http://yago-knowledge.org/resource/Mustafa_Merry> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mustafa Merry" .
+<http://yago-knowledge.org/resource/Dan_Anton_Johansen> <http://xmlns.com/foaf/0.1/surname> "Johansen" .
+<http://yago-knowledge.org/resource/William_Guerra> <http://xmlns.com/foaf/0.1/gender> "male" .
+<http://yago-knowledge.org/resource/Alex_Stevenson> <http://yago-knowledge.org/resource/isPreferredMeaningOf> "Alex Stevenson" .
+<http://yago-knowledge.org/resource/Andrejs_Prohorenkovs> <http://xmlns.com/foaf/0.1/surname> "Prohorenkovs" .
+<http://yago-knowledge.org/resource/Youssef_Rossi> <http://xmlns.com/foaf/0.1/surname> "Rossi" .
+<http://yago-knowledge.org/resource/Oxford_United_F.C.> <http://www.w3.org/2000/01/rdf-schema#label> "OUFC" .
+<http://yago-knowledge.org/resource/Roger_Espinoza> <http://xmlns.com/foaf/0.1/surname> "Espinoza" .
+<http://yago-knowledge.org/resource/Morten_Wieghorst> <http://xmlns.com/foaf/0.1/gender> "male" .
+<http://yago-knowledge.org/resource/Takalani_Ndlovu> <http://xmlns.com/foaf/0.1/givenName> "Takalani" .
+<http://yago-knowledge.org/resource/Jan_Frederiksen> <http://xmlns.com/foaf/0.1/gender> "male" .
+<http://yago-knowledge.org/resource/Laura_Koffman> <http://xmlns.com/foaf/0.1/givenName> "Laura" .
+<http://yago-knowledge.org/resource/Bernie_Lewis> <http://yago-knowledge.org/resource/isPreferredMeaningOf> "Bernie Lewis" .
+<http://yago-knowledge.org/resource/Mandla_Masango> <http://xmlns.com/foaf/0.1/givenName> "Mandla" .
+<http://yago-knowledge.org/resource/Alessandro_Carrozza> <http://yago-knowledge.org/resource/isPreferredMeaningOf> "Alessandro Carrozza" .
+<http://yago-knowledge.org/resource/Tokushima,_Tokushima> <http://www.w3.org/2000/01/rdf-schema#label> "River city" .
+<http://yago-knowledge.org/resource/Younes_Ali> <http://xmlns.com/foaf/0.1/givenName> "Younes" .
+<http://yago-knowledge.org/resource/Dmitri_Kayumov> <http://xmlns.com/foaf/0.1/gender> "male" .
+<http://yago-knowledge.org/resource/Boleigh> <http://www.w3.org/2000/01/rdf-schema#label> "Boleigh" .

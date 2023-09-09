@@ -1,0 +1,18 @@
+<http://dbpedia.org/resource/Landon_Donovan> <http://xmlns.com/foaf/0.1/givenName> "Landon " .
+<http://dbpedia.org/resource/Luc_Millecamps> <http://purl.org/dc/elements/1.1/description> "footballer " .
+<http://dbpedia.org/resource/Christian_Eigler> <http://xmlns.com/foaf/0.1/surname> "Eigler " .
+<http://dbpedia.org/resource/Chernivtsi> <http://www.w3.org/2000/01/rdf-schema#label> "Chernivtsi " .
+<http://dbpedia.org/resource/Carles_Rexach> <http://xmlns.com/foaf/0.1/givenName> "Carles " .
+<http://dbpedia.org/resource/Erik_Erikson> <http://dbpedia.org/ontology/birthName> "Erik Homburger Erikson " .
+<http://dbpedia.org/resource/Deniss_Rakels> <http://xmlns.com/foaf/0.1/givenName> "Deniss " .
+<http://dbpedia.org/resource/Chris_Erskine> <http://xmlns.com/foaf/0.1/givenName> "Chris " .
+<http://dbpedia.org/resource/Derek_Lyle> <http://xmlns.com/foaf/0.1/gender> "male " .
+<http://dbpedia.org/resource/Eyal_Lahman> <http://www.w3.org/2000/01/rdf-schema#label> "Eyal Lahman " .
+<http://dbpedia.org/resource/Stuart_Wilkinson_(rugby_league)> <http://www.w3.org/2000/01/rdf-schema#label> "Stuart Wilkinson (rugby league) " .
+<http://dbpedia.org/resource/Dmitri_Ustritski> <http://xmlns.com/foaf/0.1/surname> "Ustritski " .
+<http://dbpedia.org/resource/Frank_Baum_(footballer)> <http://purl.org/dc/elements/1.1/description> "German footballer " .
+<http://dbpedia.org/resource/Matteo_Liviero> <http://xmlns.com/foaf/0.1/gender> "male " .
+<http://dbpedia.org/resource/Juan_de_Dios_Ibarra> <http://www.w3.org/2000/01/rdf-schema#label> "Juan de Dios Ibarra " .
+<http://dbpedia.org/resource/Emilio_Caprile> <http://xmlns.com/foaf/0.1/givenName> "Emilio" .
+<http://dbpedia.org/resource/Jamie_Stevenson_(footballer)> <http://xmlns.com/foaf/0.1/gender> "male " .
+<http://dbpedia.org/resource/Musa_Shannon> <http://xmlns.com/foaf/0.1/givenName> "Musa " .

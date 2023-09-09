@@ -1,0 +1,40 @@
+<http://dbpedia.org/resource/Castellanza> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "45.6166666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Kyriakos_Papadopoulos> <http://dbpedia.org/ontology/birthDate> "1992-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Javier_Aquino> <http://dbpedia.org/ontology/birthDate> "1990-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Carles_Rexach> <http://xmlns.com/foaf/0.1/givenName> "Carles " .
+<http://dbpedia.org/resource/Eyal_Lahman> <http://www.w3.org/2000/01/rdf-schema#label> "Eyal Lahman " .
+<http://dbpedia.org/resource/Dmitri_Ustritski> <http://xmlns.com/foaf/0.1/surname> "Ustritski " .
+<http://dbpedia.org/resource/Deniss_Rakels> <http://xmlns.com/foaf/0.1/givenName> "Deniss " .
+<http://dbpedia.org/resource/Musa_Shannon> <http://xmlns.com/foaf/0.1/givenName> "Musa " .
+<http://dbpedia.org/resource/David_Kenga> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Mombasa> .
+<http://dbpedia.org/resource/Christian_Eigler> <http://xmlns.com/foaf/0.1/surname> "Eigler " .
+<http://dbpedia.org/resource/Mike_Stringfellow> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Mike_Stringfellow__3> .
+<http://dbpedia.org/resource/Chernivtsi> <http://www.w3.org/2000/01/rdf-schema#label> "Chernivtsi " .
+<http://dbpedia.org/resource/Yuri_Morales> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Viborg_FF> .
+<http://dbpedia.org/resource/Luc_Millecamps> <http://purl.org/dc/elements/1.1/description> "footballer " .
+<http://dbpedia.org/resource/Stefan_Lexa> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Klagenfurt> .
+<http://dbpedia.org/resource/Lasse_Qvist> <http://dbpedia.org/ontology/birthYear> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Cedar_Creek_Township,_Allen_County,_Indiana> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Allen_County,_Indiana> .
+<http://dbpedia.org/resource/Jamie_Stevenson_(footballer)> <http://xmlns.com/foaf/0.1/gender> "male " .
+<http://dbpedia.org/resource/Giuseppe_Pancaro> <http://dbpedia.org/ontology/birthDate> "1971-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Landon_Donovan> <http://xmlns.com/foaf/0.1/givenName> "Landon " .
+<http://dbpedia.org/resource/Hugo_Carreira> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/C.D._Nacional> .
+<http://dbpedia.org/resource/Moravian_Falls,_North_Carolina> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-81.1761111111"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Emilio_Caprile> <http://xmlns.com/foaf/0.1/givenName> "Emilio"@en .
+<http://dbpedia.org/resource/Sue_Grafton> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Louisville,_Kentucky> .
+<http://dbpedia.org/resource/Jamie_Mole> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Newcastle_upon_Tyne> .
+<http://dbpedia.org/resource/Ian_Hennessy> <http://dbpedia.org/ontology/birthDate> "1967-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Chris_Erskine> <http://xmlns.com/foaf/0.1/givenName> "Chris " .
+<http://dbpedia.org/resource/Derek_Lyle> <http://xmlns.com/foaf/0.1/gender> "male " .
+<http://dbpedia.org/resource/Bert_Dainty> <http://dbpedia.org/ontology/managerClub> <http://dbpedia.org/resource/Ayr_United_F.C.> .
+<http://dbpedia.org/resource/Juan_de_Dios_Ibarra> <http://www.w3.org/2000/01/rdf-schema#label> "Juan de Dios Ibarra " .
+<http://dbpedia.org/resource/Fred_Howe> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Forward_(association_football)> .
+<http://dbpedia.org/resource/Matteo_Liviero> <http://xmlns.com/foaf/0.1/gender> "male " .
+<http://dbpedia.org/resource/Terry_Nicholl> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Southend_United_F.C.> .
+<http://dbpedia.org/resource/Bert_Middlemiss> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Forward_(association_football)> .
+<http://dbpedia.org/resource/Cleiton_Mendes_dos_Santos> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Santa_Cruz_Futebol_Clube> .
+<http://dbpedia.org/resource/Frank_Baum_(footballer)> <http://purl.org/dc/elements/1.1/description> "German footballer " .
+<http://dbpedia.org/resource/Luigi_Anaclerio> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Bari> .
+<http://dbpedia.org/resource/Stuart_Wilkinson_(rugby_league)> <http://www.w3.org/2000/01/rdf-schema#label> "Stuart Wilkinson (rugby league) " .
+<http://dbpedia.org/resource/Terra_Alta,_West_Virginia> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/West_Virginia> .
+<http://dbpedia.org/resource/Erik_Erikson> <http://dbpedia.org/ontology/birthName> "Erik Homburger Erikson " .

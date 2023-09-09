@@ -1,0 +1,10 @@
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Pharmaceuticals .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Therapeutics .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Healthcare .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Drugs .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Technologies .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Research .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Products .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Treatment .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label>  Latisana Industries .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label> Latisana .

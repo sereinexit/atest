@@ -1,0 +1,2 @@
+<http://yago-knowledge.org/resource/Gideon_Omokirio> <http://yago-knowledge.org/resource/isPreferredMeaningOf> "Gideon Omokirio" .
+<http://yago-knowledge.org/resource/Latisana> <http://www.w3.org/2000/01/rdf-schema#label> "Latisana" .

@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Landon_Donovan> <http://xmlns.com/foaf/0.1/givenName> "Landon " .
+<http://dbpedia.org/resource/Luc_Millecamps> <http://purl.org/dc/elements/1.1/description> "footballer " .
